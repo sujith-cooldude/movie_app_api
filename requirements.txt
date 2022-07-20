@@ -1,0 +1,5 @@
+fastapi
+bs4==0.0.1
+uvicorn==0.18.2
+requests
+html5lib
